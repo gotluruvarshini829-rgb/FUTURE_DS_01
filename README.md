@@ -14,7 +14,7 @@ This project focuses on helping businesses understand:
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Preview](images\Sales-and-Insights-Dashboard.png
+![Dashboard Preview](Sales-and-Insights-Dashboard.png)
 
 This interactive Power BI dashboard provides an executive-level summary of:
 
