@@ -58,8 +58,7 @@ This interactive Power BI dashboard provides an executive-level summary of:
 ## 📷 Dashboard Preview
 
 
-<img width="800" alt="Dashboard Preview" src="images/dashboard.png" />
-
+C:\Users\gotlu\OneDrive\Pictures\Screenshots\Screenshot 2026-03-02 185717.png
 ---
 
 ## 🎯 Learning Outcome
