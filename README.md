@@ -57,7 +57,7 @@ This interactive Power BI dashboard provides an executive-level summary of:
 ---
 
 ## 📷 Dashboard Preview
-[View Dashboard Preview](Sales-Insights-Dashboard.png)
+[View Sales and Insights Dashboard Preview](Sales Insights Dashboard.png)
 
 
 ---
